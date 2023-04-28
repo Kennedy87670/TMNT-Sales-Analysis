@@ -1,7 +1,7 @@
 # TMNT-Sales-Analysis
 ![](tmnt_store.jpeg)
 
-##Introduction
+## Introduction
 My current training at Utiva included a Capstone Project focused on the TMNT stores dataset. This project allowed me to practice my data cleaning, analysis, and visualization skills using Excel. Additionally, I created a reporting dashboard to showcase my findings from the dataset. Overall, the project was an excellent opportunity to apply what I learned in the training and gain hands-on experience with real-world data.
 
 ## Problem statement 
