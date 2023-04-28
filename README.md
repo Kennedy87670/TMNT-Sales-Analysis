@@ -55,22 +55,28 @@ Created relationships between tables
 ## Created  pivot tables that summarize;
 
 1. Revenue trend
+
 ![](revenue_by_month.png)
 
 From the Visuals of revenue trend: revenue was the highest in May while February brought the least revenue 
+
 2. Products by revenue
+
 ![](product_by_revenue.png)
 From the Visual of Product revenue: Clocks brought in more profit to the store while bathroom furniture brought in the least revenue
 
 3. Revenue contribution (%) of the product categories
+
 ![](revenue%_by_product.png)
 From the Visual of revenue contribution by product categories: Decorative brought in more profit to the store while sports brought in the least revenue
 
 4. Sales Team by Revenue
+
 ![](Revenue_by_salesTeam.png)
 From the Visuals Sales team by revenue: Nicholas Cunningham’s team made the most profit while Douglas Tuckers’s team made the least profit 
 
 5. State by revenue, also showing their population and the median income per state
+
 ![](revenue_by_income_population.png)
 From the Visuals State by revenue, also showing their population and the median income per state: we understood that a higher population leads to higher revenue
 
